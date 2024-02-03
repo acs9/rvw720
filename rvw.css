@@ -1,0 +1,36 @@
+body 
+{
+	/*	BACKGROUND-ATTACHMENT: fixed; */
+	padding-top:5px;
+	padding-bottom:5px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	font-size:13px;
+	font-family:Trebuchet MS, Arial,Verdana, Helvetica;
+	color:#363636;
+	background-color: #7D7D7D;
+
+}
+
+a:link {color: #363636;text-decoration:none;}     
+a:visited {color:363636;text-decoration:none;} 
+a:hover {text-decoration: underline; color: #E90000;}
+a:active {color: 363636;text-decoration:none;}
+
+
+table 
+{
+	font-style:normal; 
+	font-variant:normal; 
+	font-weight:normal; 
+	font-size:13px; 
+	font-family:Trebuchet MS, Arial,Verdana, Helvetica;
+	color:#363636;
+}
+.bg {
+	background-image: url(img/grey_tab.jpg);
+	text-align: center;
+	word-spacing: normal;
+	padding-top: 6px;
+}
